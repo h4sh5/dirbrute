@@ -20,7 +20,11 @@ will bruteforce for values of `name`.
 
 if you find any bugs please raise an issue!
 
-### why another one of these?
+### Why another one of these?
 A bit of re-inventing the wheel helps to learn how tools work and simplify things.
 
 Also, minimal things are fast.
+
+
+### Where to find wordlists?
+see https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content
